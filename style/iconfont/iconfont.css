@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2973546 */
+  src: url('iconfont.woff2?t=1638171554312') format('woff2'),
+       url('iconfont.woff?t=1638171554312') format('woff'),
+       url('iconfont.ttf?t=1638171554312') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiantoushang:before {
+  content: "\e62c";
+}
+
+.icon-anpaishijian:before {
+  content: "\e6b9";
+}
+
+.icon-a-wenjianjiawenjian:before {
+  content: "\e727";
+}
+
+.icon-alipay1193369easyiconnet:before {
+  content: "\e61f";
+}
+
+.icon-baidu1193371easyiconnet:before {
+  content: "\e621";
+}
+
+.icon-qq1193403easyiconnet:before {
+  content: "\e641";
+}
+
+.icon-qzone1193405easyiconnet:before {
+  content: "\e643";
+}
+
+.icon-wangyiyunyinyuemusic1193417easyiconnet:before {
+  content: "\e650";
+}
+
+.icon-wechat1193418easyiconnet:before {
+  content: "\e651";
+}
+
+.icon-weibo1193419easyiconnet:before {
+  content: "\e652";
+}
+
+.icon-github-fill:before {
+  content: "\e885";
+}
+
+.icon-zhifeiji:before {
+  content: "\e6a0";
+}
+
+.icon-wangzhi:before {
+  content: "\e658";
+}
+
+.icon-xiazai:before {
+  content: "\e640";
+}
+
+.icon-tubiao_biaoqian:before {
+  content: "\e62a";
+}
+
+.icon-sousuo:before {
+  content: "\e8b9";
+}
+
